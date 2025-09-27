@@ -53,8 +53,9 @@ This file contains the raw data for culturally significant things including wiki
 If you use this dataset or the associated codebase, please cite the following:
 
 ```bibtex
-@inproceedings{lalai20q,
+@article{lalai2025world,
   title={The World According to LLMs: How Geographic Origin Influences LLMs' Entity Deduction Capabilities},
   author={Lalai, Harsh Nishant and Shah, Raj Sanjay and Pei, Jiaxin and Varma, Sashank and Wang, Yi-Chia and Emami, Ali},
-  booktitle={Second Conference on Language Modeling}
+  journal={arXiv preprint arXiv:2508.05525},
+  year={2025}
 }
